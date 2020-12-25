@@ -1,4 +1,4 @@
-<img src="images/logo-black.png" style="zoom:15%;" width="50%"/>
+<img src="images/logo-black.png" style="zoom:15%;" width="50%" align=center/>
 
 <p align=center>
     <span style="color: gray">취업 준비생들을 위한 포트폴리오 및 경험 정리 블로그</span>
