@@ -22,10 +22,10 @@
 ## Teck Stack
 
 <div>
-    <img src="images/vue js.png" height="30">
-    <img src="images/spring boot.png" height="30">
-    <img src="images/jpa.png" height="30">
-    <img src="images/docker.png" height="30">
+    <img src="images/vue js.png" height="35">
+    <img src="images/spring boot.png" height="35">
+    <img src="images/jpa.png" height="35">
+    <img src="images/docker.png" height="35">
 </div>
 
 
