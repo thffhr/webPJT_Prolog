@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-WebBlogApplication<webBlog>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.web.blog.WebBlogApplication",
+            "projectName": "webBlog",
+            "args": ""
+        }
+    ]
+}

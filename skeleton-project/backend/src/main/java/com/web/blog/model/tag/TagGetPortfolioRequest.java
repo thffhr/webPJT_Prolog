@@ -1,0 +1,23 @@
+package com.web.blog.model.tag;
+
+import io.swagger.annotations.ApiModelProperty;
+import lombok.*;
+
+import javax.validation.constraints.NotNull;
+import java.util.List;
+
+@NoArgsConstructor
+@AllArgsConstructor
+@Getter
+@Setter
+public class TagGetPortfolioRequest {
+
+    @ApiModelProperty(required = true)
+    @NotNull
+    String uid;
+
+    @ApiModelProperty(required = true)
+    @NotNull
+    List<Integer> tagList;
+
+}
